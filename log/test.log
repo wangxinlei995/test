@@ -1,0 +1,4 @@
+2018-11-27 22:10:08,959 - framework - INFO - attach file E:\raysync_dll_project\report2018-11-27_result.html
+2018-11-27 22:10:10,622 - framework - INFO - 发送邮件"Raysync自动化测试报告"成功! 收件人：wangxinlei@rayvision.com , vicli@rayvision.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确
+2018-11-28 14:39:57,420 - framework - INFO - attach file E:\raysync_dll_project\report2018-11-28_result.html
+2018-11-28 14:39:59,227 - framework - INFO - 发送邮件"Raysync自动化测试报告"成功! 收件人：wangxinlei@rayvision.com , vicli@rayvision.com。如果没有收到邮件，请检查垃圾箱，同时检查收件人地址是否正确

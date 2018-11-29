@@ -1,0 +1,11 @@
+URL : "119.23.141.139"
+PORT : 8090
+USERNAME : "test"
+PASSWORD : "Raysync@123"
+
+log:
+    file_name: test.log
+    backup: 10
+    console_level: WARNING
+    file_level: DEBUG
+    pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'

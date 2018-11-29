@@ -1,0 +1,8 @@
+{
+  "test_raysync_download.py": true,
+  "test_raysync_download.py::TestRaysyncDownload::test_download_1": true,
+  "test_raysync_list.py::TestRaysyncLogin::test_login_list": true,
+  "test_raysync_remove.py::TestRaysyncRemove::test_remove_4": true,
+  "test_raysync_upload.py": true,
+  "test_raysync_z_remove.py": true
+}
